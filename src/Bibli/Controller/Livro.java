@@ -1,4 +1,4 @@
-package Controller;
+package Bibli.Controller;
 
 public class Livro {
     public String Nome;

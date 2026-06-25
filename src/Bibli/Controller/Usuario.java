@@ -1,4 +1,4 @@
-package Controller;
+package Bibli.Controller;
 
 public class Usuario {
     public String Nome;
