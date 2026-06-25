@@ -1,9 +1,9 @@
 package Bibli.View;
+
 import java.util.Scanner;
 
-
-public class Menu {
-     Scanner scanner = new Scanner(System.in);
+public class LivroView {
+        Scanner scanner = new Scanner(System.in);
     public int LerQuantidade(){
         System.out.println("Quantos livros deseja cadastrar: ");
         int quant = scanner.nextInt();
